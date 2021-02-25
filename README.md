@@ -1,2 +1,2 @@
 # Calculator-by-Js
-<img src="output.jpg">
+<img src="output.png">
